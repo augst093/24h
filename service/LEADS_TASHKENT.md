@@ -22,3 +22,20 @@
 
 ## Xabar (UZ)
 Assalomu alaykum! {nomi} uchun bepul sayt maketini tayyorladim: {havola}. Yoqsa — 24 soat ichida ishga tushiraman, narxi 1 000 000 so'm (Telegram orqali yozilish tugmasi bilan). Yoqmasa — o'chirib tashlayman.
+
+---
+# Добавлено через Agent Reach (Golden Pages, рубрика «барбершопы Ташкента», https://www.goldenpages.uz/rubrics/?Id=110188)
+В каталоге у этих заведений НЕ указан сайт. Номера в каталоге скрыты (XX-XX), цен нет — контакт искать через Instagram/Telegram/2ГИС по названию.
+
+| Заведение | Адрес | Тел. (частично) | Заметка |
+|---|---|---|---|
+| BARBER SULTAN (сеть, 5+ филиалов, круглосуточно/10–22) | Алмазар, ул. И. Каримова, 8 | +998 77 232-XX-XX | сеть — один сайт на все филиалы, продаётся дороже |
+| BARBER SULTAN | Яшнабад, 1-й Алимкент, 22 | +998 99 037-XX-XX | |
+| BARBER SULTAN (BLACKSTAR BARBER ООО) | Мирзо-Улугбек, ул. Аккурган, 18 | +998 93 123-XX-XX | юрлицо — можно выйти на владельца |
+| BARBER SULTAN | Яшнабад, ул. М. Риёзи, 30Б | +998 93 939-XX-XX | |
+| BARBER SULTAN | Яшнабад, пр. Махтумкули, 75/2 | — | |
+| NMBARBERIAUZ | см. выше | в карточке Golden Pages | 10:00–20:00 |
+
+Исключить (сайт есть): «Топор» — toporbarber.com; 23:59 Barbershop — есть онлайн-запись.
+
+Приоритет №1: BARBER SULTAN — сеть из 5+ точек, сайт один на всех = 1 покупка за N филиалов, предлагайте 1 500 000 сум + страницы филиалов.
