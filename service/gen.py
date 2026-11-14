@@ -6,10 +6,11 @@ h1{{margin:0 0 8px;font-size:2rem}}main{{max-width:720px;margin:0 auto;padding:2
 .row{{display:flex;justify-content:space-between;border-bottom:1px solid #eee;padding:10px 0}}.cta{{background:{color};color:#fff;text-align:center;padding:32px 20px;border-radius:12px;margin:28px 0}}</style></head><body>
 <header><h1>{name}</h1><div>{tagline}</div><a class="btn" href="{link}">Записаться</a></header><main>
 <h2>Услуги и цены</h2>{rows}<h2>Почему мы</h2><ul>{why}</ul>
-<h2>Контакты</h2><p>{city}, {address}<br>Тел.: <a href="tel:{phone}">{phone}</a><br>{hours}</p>
+<h2>Контакты</h2><p>{city}, {address}<br>{phone_html}{hours}</p>
 <div class="cta"><b>Запишитесь сегодня</b><br><a class="btn" href="{link}">Написать</a></div></main></body></html>'''
 c=json.load(open(sys.argv[1]));e=html.escape
 c['rows']=''.join(f'<div class="row"><span>{e(a)}</span><b>{e(b)}</b></div>' for a,b in c['services'])
+c['phone_html']=(f'Тел.: <a href="tel:{html.escape(c["phone"])}">{html.escape(c["phone"])}</a><br>' if c.get('phone') else '')
 c['why']=''.join(f'<li>{e(x)}</li>' for x in c['why'])
-for k in('name','city','tagline','address','phone','hours'):c[k]=e(c[k])
+for k in('name','city','tagline','address','hours'):c[k]=e(c[k])
 open(sys.argv[2],'w').write(tpl.format(**c))
